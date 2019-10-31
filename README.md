@@ -5,7 +5,7 @@
   
 <ul>2. Open Index.php on any text editor.</ul>
 <ul>3. Add any link you would like to extract URL's from in the $START variable.</ul>
-4. Run the php file using any local server or using cmd line `$ php index.php `
+4. Run the php file using any local server or using cmd line ` $ php index.php `
 <ul>5. Enjoy</ul>
 
 <img src="example.png" alt="resize()" style="max-width:100%;">
