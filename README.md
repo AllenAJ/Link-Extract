@@ -1,4 +1,4 @@
-# Link-Extract
+# Link-Extract 
 #### Using web crawlers to extract links from any website.
 
 1. ` $ git clone https://github.com/AllenAJ/Link-Extract.git `
@@ -10,4 +10,4 @@
 
 <img src="example.png" alt="resize()" style="max-width:100%;">
 
-## HAPPY CODING💻
+###### HAPPY CODING💻
