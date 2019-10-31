@@ -1,7 +1,7 @@
 # Link-Extract
 #### Using web crawlers to extract links from any website.
 
-1. ` $ git clone https://github.com/AllenAJ/Link-Extract.git `
+    1. ` $ git clone https://github.com/AllenAJ/Link-Extract.git `
   
 <ul>2. Open Index.php on any text editor.</ul>
 <ul>3. Add any link you would like to extract URL's from in the $START variable.</ul>
